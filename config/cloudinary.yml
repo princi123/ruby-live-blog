@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dmkmniabp
+  api_key: '221784993126953'
+  api_secret: PDuFg9nvxmrr-xb927R19xbFcbs
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: dmkmniabp
+  api_key: '221784993126953'
+  api_secret: PDuFg9nvxmrr-xb927R19xbFcbs
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: dmkmniabp
+  api_key: '221784993126953'
+  api_secret: PDuFg9nvxmrr-xb927R19xbFcbs
+  enhance_image_tag: true
+  static_file_support: false
